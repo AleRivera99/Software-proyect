@@ -1,4 +1,4 @@
-# Full-Stack-Mern
+# Proyecto Software
 
 Tecnologias usadas para realizar esta proyecto
 
